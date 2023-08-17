@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 This, for example, is a line added to Github. 
 
 This is a further line that is added to Github to test the "pull" command. 
+
+Line added for pushing local branch to GitHub. 
